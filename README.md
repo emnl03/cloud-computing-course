@@ -1,14 +1,14 @@
-Cloud Computing Course Repository
+#Cloud Computing Course Repository
 - A collection of activities, outputs, and learning resources for CLOUD COMPUTING - CCM101
 
-About This Repository:
+#About This Repository:
 - This repo serves as my organized workspace for all course requirements, including:
   - Class notes and summaries
   - Lab activities and exercises
   - Mini-projects
   - Reflection papers
 
-My Information:
+#My Information:
   - Name: Cortez, Justin Arche Emmanuel O.
   - Course/Section: BSIT 4 - G
   - Instructor: Jenkielyn C. Torres
